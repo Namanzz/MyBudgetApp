@@ -34,7 +34,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/yourusername/mybudget-app.git
+git clone https://github.com/Namanzz/mybudgetapp.git
 
 # Open the project in Android Studio
 # Build and run on an emulator or Android device
